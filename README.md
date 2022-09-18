@@ -20,5 +20,5 @@ Training parameters are in:
 
 Visualization of accuracy on the training and test samples, loss are in:
 
-        /train/plots/
+    /train/plots/
         
