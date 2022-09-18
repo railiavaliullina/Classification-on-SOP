@@ -11,6 +11,10 @@ File to run:
 
     /train/main.py
 
+Training parameters are in:
+
+    configs/
+    
 
 ## Additional Information
 
