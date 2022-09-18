@@ -1,9 +1,20 @@
 # Classification-on-SOP
 
-1) Реализация ResNet50 на PyTorch,
-2) Обучение сети на задачу классификации на наборе данных Stanford Online Products.
+## About The Project
 
-# Запуск
-Файл для запуска: `/train/main.py`;
+1) ResNet50 was implemented on PyTorch,
+2) was trained for the classification task on the Stanford Online Products dataset.
 
-Графики точности и значений целевой функции: `/train/plots`.
+## Getting Started
+
+File to run:
+
+    /train/main.py
+
+
+## Additional Information
+
+Visualization of accuracy on the training and test samples, loss are in:
+
+        /train/plots/
+        
